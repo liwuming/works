@@ -1,0 +1,92 @@
+* { padding:0; margin:0;  list-style:none; }
+.left{float:left;}
+
+.right{float:right;}
+
+.type{padding:3px; border-radius:5px;}
+
+/*字号*/
+.f12{font-size:12px;}
+
+
+/*字体*/
+.shu{font-family:Georgia, "Times New Roman", Times, serif;}
+
+/*颜色*/
+.bai{color:#FFFFFF;}
+.bai a{color:#FFFFFF;}
+a.bai{color:#FFFFFF;}
+
+.red{color:#990000;}
+.title-color{color:#cb0909}
+
+
+/*距离*/
+.padding8{padding:8px 0;}
+.padding10{padding:10px 0;}
+.padding20{padding:20px 0;}
+
+.margin-top20{margin-top:20px;}
+.margin-top50{margin-top:50px;}
+.margin-bootom-5{margin-bottom:-5px;}
+.margin-bootom30{margin-bottom:30px;}
+.margin302{margin:30px 0 20px;}
+.margin505{margin:50px 0 50px;}
+
+/*其他*/
+.cu{font-weight:bold;}
+
+/*高度*/
+.line-height-30{line-height:30px;}
+.line-height-36{line-height:36px;}
+
+.height-130{height:130px;}
+
+/*超出长度的文字用省略号…代替*/
+.replace{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+
+
+/*分页*/
+.pager {CLEAR:both; margin:auto; padding-right:10px; font-size:14px; padding-bottom:0px; word-break:keep-all; padding-top:20px; font-family:verdana; padding-bottom:20px;}
+.pager ul {padding-right:0px; padding-left:0px; padding-bottom:0px; margin:0px; line-height:1.3em; padding-top:0px; list-style-type:none;}
+.pager li {float:left; margin:0px 10px 0px 0px; color:#f7ca91}
+.pager li.p_total {border:#f7ca91 1px solid; padding:3px 6px 3px 6px; FONT-WEIGHT:bold; background:#fff; color:#f7ca91;}
+.pager li.p_current {border:#ffa467 1px solid; padding:3px 6px 3px 6px; background:#ffa467; color:#fff;}
+.pager li.p_nolink {border:#f3f3f3 1px solid; padding:3px 6px 3px 6px; padding-bottom:3px; color:#ccc;}
+.pager li a:link {border:#f7ca91 1px solid; padding:3px 6px 3px 6px; background:#fff; float:left; color:#f7ca91; text-decoration:none! important}
+.pager li a:visited {border-right:#f7ca91 1px solid; padding-right:6px; border-top:#f7ca91 1px solid; background:#fff; float:left; color:#f7ca91; text-decoration:none! important}
+.pager li a:hover {border-left-color:#f7ca91; background:#ffa467; border-bottom-color:#f7ca91; color:#fff; border-top-color:#f7ca91; border-right-color:#f7ca91}
+.pager li a:active {border-left-color:#f7ca91; background:#ffa467; border-bottom-color:#f7ca91; color:#fff; border-top-color:#f7ca91; border-right-color:#f7ca91}
+.pager li input {border-right:#f7ca91 1px solid; padding-right:0px; border-top:#f7ca91 1px solid; padding-left:0px; FONT-SIZE:12px; background:url(inputBorder.gif); float:left; padding-bottom:2px; border-left:#f7ca91 1px solid; width:3em; color:#999; padding-top:2px; border-bottom:#f7ca91 1px solid; FONT-FAMILY:verdana; height:1.3em; text-align:center}
+
+/*index*/
+.content{border:1px #FFFFFF solid; border-radius:5px; background:url(../images/indbk1.jpg) #fff9f6 repeat-x top;}
+.title{background:url(../images/title_tg.png) no-repeat; height:30px; padding-left:80px; padding-top:2px;}
+.welcome{height:30px; background:url(../images/w12380.png) no-repeat center 0; text-indent:-9999px; }
+.content-bottom{border-top:1px #f7ca91 dotted;}
+.title-bottom{border-bottom:1px #f7ca91 dotted;}
+.topborder{background:url(../images/topbo.jpg) no-repeat top;}
+
+.link-nav{ margin-top:5px;}
+.link-nav li{color:#cc0000; border-bottom:1px #f7ca91 dashed; padding:8px 6px;}
+
+
+.aside{ width:260px;}
+.main-nav{ margin-top:5px;}
+.main-nav li{ margin:0 0 27px 30px;}
+.n-home,.n-notice,.n-feedback,.n-law,.n-law1,.n-advice,.n-links,.n-home:hover,.n-notice:hover,.n-feedback:hover,.n-fg:hover,.n-advice:hover,.n-links:hover{ display:block;width:200px;height:45px;background:url(../images/s_icons.png) no-repeat 0 0; text-indent:-9999px; }
+
+.n-home{background-position:0 -1px;}
+.n-home:hover{background-position:-228px -1px;}
+.n-notice{background-position:0 -73px;}
+.n-notice:hover{background-position:-228px -73px;}
+.n-feedback{background-position:0 -145px;}
+.n-feedback:hover{background-position:-228px -145px;}
+.n-law{background-position:0 -217px;}
+.n-law:hover{background-position:-228px -217px;}
+.n-advice{background-position:0 -289px;}
+.n-advice:hover{background-position:-228px -289px;}
+.n-links{background-position:-2px -360px;}
+.n-links:hover{background-position:-230px -360px;}
+.n-law1{background-position:0 -431px;}
+.n-law1:hover{background-position:-228px -431px;}
